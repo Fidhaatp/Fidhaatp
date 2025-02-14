@@ -1,4 +1,4 @@
-👋 Hi, I’m Fidha A. T. P.
+👋 Hi, I’m Fidha A.T.P, a Full-Stack Python Developer passionate about building scalable and efficient web applications.
 
 👀 Web Developer | Django | React
 
